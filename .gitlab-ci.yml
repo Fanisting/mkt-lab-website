@@ -5,10 +5,10 @@ pages:
   script:
   - gem install jekyll
   - jekyll build -d public
-  - gem build massively_jekyll_theme.gemspec
+  - gem build mkt-lab.gemspec
   artifacts:
     paths:
     - public
-    - "massively_jekyll_theme-*.gem"
+    - "mkt-lab-*.gem"
   only:
   - master

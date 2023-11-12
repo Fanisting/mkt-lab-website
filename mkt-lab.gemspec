@@ -1,10 +1,10 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "massively_jekyll_theme"
+  spec.name          = "mkt-lab"
   spec.version       = "1.2"
-  spec.authors       = ["Andrew Banchich"]
-  spec.email         = ["andrewbanchich@gmail.com"]
+  spec.authors       = ["Xuhang Fan"]
+  spec.email         = ["xuhang.fan@duke.edu"]
 
   spec.summary       = %q{A Jekyll version of the "Massively" theme by HTML5 UP.}
   spec.homepage      = "https://andrewbanchich.github.io/massively-jekyll-theme/"
