@@ -64,7 +64,6 @@ description:
 
     body {
         font-family: Arial, sans-serif;
-        text-align: center;
         background-color: #f4f4f4;
         color: #333;
         margin: 0;
@@ -72,7 +71,7 @@ description:
     }
 
     .team-section {
-        width: 70%;
+        width: 90%;
         margin: 0 auto;
         padding: 20px;
     }
