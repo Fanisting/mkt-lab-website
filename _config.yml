@@ -3,7 +3,7 @@ title: 市场学研究实验室
 subtitle: (MKT-LAB)
 email: mkt-lab@outlook.com
 description: Official Website of MKT-LAB.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/site" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 
