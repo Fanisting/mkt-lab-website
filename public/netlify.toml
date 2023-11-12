@@ -3,7 +3,7 @@
   # Specify the build command
   command = "gem install jekyll && jekyll build -d public && gem build mkt-lab.gemspec"
   # Define the directory that Netlify will publish
-  publish = "_site"
+  publish = "public"
   # Environment variables can be set here
   # environment = { ... }
 
