@@ -19,7 +19,7 @@ description:
     <div class="team-member">
         <div class="left-col">
             <img src="assets/images/member-june.png" alt="Zijun Shi">
-            <h3>石子君</h3>
+            <h3>石梓君</h3>
         </div>
         <div class="right-col">
             <p>香港科技大学商学院 | 市场学助理教授 | 负责人</p>
